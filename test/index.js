@@ -33,7 +33,7 @@ describe('Initialization', function() {
 			}
 		};
 
-		this.tree = Tree(this.files, this.logger);
+		this.tree = yield Tree(this.files, this.logger);
 	});
 
 	it('should clean css and output valid result', function *() {
