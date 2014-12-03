@@ -1,6 +1,6 @@
 {
   "name": "shark-transformer-clean-css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "shark-transformer-clean-css",
   "main": "lib/transformer-clean-css.js",
   "scripts": {
